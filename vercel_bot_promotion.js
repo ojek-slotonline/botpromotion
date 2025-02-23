@@ -26,6 +26,6 @@ bot.start((ctx) => {
 
 // Webhook untuk Vercel
 app.use(bot.webhookCallback('/bot'));
-bot.telegram.setWebhook('https://your-vercel-app.vercel.app/bot');
+bot.telegram.setWebhook('https://botpromotion.vercel.app/bot');
 
 export default app;
