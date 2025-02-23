@@ -1,0 +1,9 @@
+{
+  "name": "big888-bot",
+  "version": "1.0.0",
+  "main": "vercel_bot_promotion.js",
+  "dependencies": {
+    "telegraf": "^4.8.4",
+    "express": "^4.17.1"
+  }
+}
